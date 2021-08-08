@@ -6,7 +6,7 @@ title: Nguyen Khoi Tran's CV
 Researcher, Reader, Writer.
 
 <div id="webaddress">
-    <a href="nguyen.tran@adelaide.edu.au">Email</a> | 
+    <a href="mailto: nguyen.tran@adelaide.edu.au">Email</a> | 
     <a href="https://nk-tran.com">Homepage</a> | 
     <a href="https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en">Google Scholar</a> | 
     <a href="https://github.com/nguyentran0212">Github</a>
