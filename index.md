@@ -3,19 +3,20 @@ layout: cv
 title: Nguyen Khoi Tran's CV
 ---
 # Nguyen Khoi Tran
-Researcher, Reader, Writer.
+Researcher, Reader, Writer
 
 <div id="webaddress">
     <a href="nguyen.tran@adelaide.edu.au">Email</a> | 
     <a href="https://nk-tran.com">Homepage</a> | 
     <a href="https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en">Google Scholar</a> | 
-    <a href="https://github.com/nguyentran0212">Github</a>
+    <a href="https://github.com/nguyentran0212">Github</a> |
+    <a href="https://medium.com/@nktrandlt">Medium</a>
 </div>
 
 
 ## Currently
 
-Research fellow the Centre for Research on Engineering Software Technology ([CREST](https://www.crest-centre.net)) at the University of Adelaide, conducting research in the [DLT Cluster](http://dlt.crest-centre.net). My research focuses on ensuring the trustworthiness of the information processed and exchanged by a community of rational agents, without relying on a trusted third party. I am interested in decentralised and trustless software systems as well as design frameworks and tools to support their development.
+Research fellow the Centre for Research on Engineering Software Technology ([CREST](https://www.crest-centre.net)) at the University of Adelaide, conducting research in the [TIPS](http://dlt.crest-centre.net). My core research question is how to empower organisations and individuals to build and use *decentralised software solutions that are efficient, resilient, secure, privacy-preserving, and user-controllable.* My research adopts an engineering-centric approach, focusing on the systemization of architectural design knowledge and the development of tools and frameworks to enable decentralised software.
 
 ### Research interests
 
@@ -44,6 +45,18 @@ Research fellow the Centre for Research on Engineering Software Technology ([CRE
 
 A full list is available [online](https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en)
 
+`2022`
+**Tran, Nguyen Khoi**, Bushra Sabir, M. Ali Babar, Nini Cui, Mehran Abolhasan, and Justin Lipman. "ProML: A Decentralised Platform for Provenance Management of Machine Learning Software Systems." arXiv preprint arXiv:2206.10110 (2022). *Accepted as full paper in the European Conference on Software Architecture 2022.*
+
+`2022`
+**Tran, Nguyen Khoi**, M. Ali Babar, Andrew Walters. "A framework for automating deployment and evaluation of blockchain networks." Journal of Network and Computer Applications, Volume 206, 2022, 103460. ISSN 1084-8045.
+
+`2021`
+**Tran, Nguyen Khoi**, M. Ali Babar, and Jonathan Boan. "Integrating blockchain and Internet of Things systems: A systematic review on objectives and designs." Journal of Network and Computer Applications 173 (2021): 102844.
+
+`2021`
+**Tran, Nguyen Khoi**, and M. Ali Babar. "Taxonomy of Edge Blockchain Network Designs." European Conference on Software Architecture. Springer, Cham, 2021.
+
 `2020`
 **Tran, Nguyen Khoi**, and M. Ali Babar. "Anatomy, Concept, and Design Space of Blockchain Networks." In 2020 IEEE International Conference on Software Architecture (ICSA), pp. 125-134. IEEE, 2020
 
@@ -59,11 +72,8 @@ A full list is available [online](https://scholar.google.com/citations?user=aX4U
 `2017`
 **Tran, Nguyen Khoi**, Quan Z. Sheng, Muhammad Ali Babar, and Lina Yao. “Searching the Web of Things: state of the art, challenges, and solutions.” ACM Computing Surveys (CSUR) 50, no. 4 (2017): 55.
 
-`2016`
-**Tran, Nguyen Khoi**. "Searching the Web of Things: Resolving a Real Library of Babel." In International Conference on Service-Oriented Computing, pp. 127-132. Springer, Cham, 2016.
-
 `2014`
-**Tran, Khoi-Nguyen**, and Hong-Quang Nguyen. "MobiPSE: A scenario-based mobile-application development for end-user developers." International Journal of Pervasive Computing and Communications 10.2 (2014): 153-167.
+**Tran, Nguyen Khoi**, and Hong-Quang Nguyen. "MobiPSE: A scenario-based mobile-application development for end-user developers." International Journal of Pervasive Computing and Communications 10.2 (2014): 153-167.
 
 ## Work Experience 
 
@@ -89,6 +99,9 @@ A full list is available [online](https://scholar.google.com/citations?user=aX4U
 - Object-oriented Analysis and Design
 
 ### Supervision
+`July 2020 - Now`
+**PhD Supervision**, School of Computer Science, The University of Adelaide
+
 `Mar 2018 - Now`
 **Master Project Supervision**, School of Computer Science, The University of Adelaide
 - Master of Computer Science
@@ -127,16 +140,17 @@ English (Proficient), Vietnamese (Native)
 
 - Programming: Javascript and NodeJS, Solidity and Web3js (Blockchain), Python
 - Infrastructure and DevOps: Docker, Ansible, DroneCI, Prometheus, InfluxDB, Grafana 
-- Software Architecture: Microservice Architecture, Blockchain network architecture
+- Software Architecture: Blockchain network architecture, Microservice Architecture, Architectural Design Patterns and Tactics, Attribute-Driven Design Method
 
 ### Soft Skills
 
 - Personal and team management with Scrum and Kanban
-- Knowledge management
-- Academic and technical writing
+- Knowledge management with Zettelkasten and Second Brain method
+- Academic, technical writing, and science popularisation
 - Seminar and presentation
+- Industry collaboration and communication
 - Course development, coordination, and delivery
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
