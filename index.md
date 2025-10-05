@@ -131,21 +131,6 @@ In 2019 26th Asia‑Pacific Software Engineering Conference (APSEC), pp. 228‑2
 *Internet of Things Search Engine: Concepts, Classification, and Open Issues.*  
 Communications of ACM, 2018.
 
-`2017`  
-**Tran, Nguyen Khoi**, Quan Z. Sheng, M. Ali Babar, Lina Yao.  
-*A Kernel‑Based Approach to Developing Adaptable and Reusable Sensor Retrieval Systems for the Web of Things.*  
-In International Conference on Web Information Systems Engineering, pp. 315‑329. Springer, Cham, 2017
-
-`2017`  
-**Tran, Nguyen Khoi**, Quan Z. Sheng, Muhammad Ali Babar, Lina Yao.  
-*Searching the Web of Things: state of the art, challenges, and solutions.*  
-ACM Computing Surveys (CSUR) 50, no. 4 (2017): 55.
-
-`2014`  
-**Tran, Nguyen Khoi**, and Hong‑Quang Nguyen.  
-*MobiPSE: A scenario‑based mobile‑application development for end‑user developers.*  
-International Journal of Pervasive Computing and Communications 10.2 (2014): 153‑167.
-
 ## Professional Experience
 - **Reviewer:** TEM, COMP, SASEIOT2016, AICCSA2016, BDCloud2016, ICWE2016  
 - **Conference co‑organiser and volunteer coordinator:** ICCSA 2013  
