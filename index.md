@@ -12,7 +12,7 @@ title: Nguyen Khoi Tran's CV
 
 ## Research overview
 
-I am a research fellow at CREST, University of Adelaide, leading work that blends blockchain, software‑supply‑chain security, distributed ML operations, and LLM‑based systems.  Key achievements include a DSTG‑partnered edge‑blockchain platform, a metadata‑management architecture to mitigate supply‑chain attacks, and a secure, provenance‑aware MLOps framework.  Currently I develop *Skel*, a lightweight LLM‑agent framework, and investigate trust‑worthy architectures for autonomous workflows.
+I am a research fellow at CREST, University of Adelaide, leading work that blends blockchain, software‑supply‑chain security, distributed ML operations, and LLM‑based systems. Key achievements include a DSTG‑partnered edge‑blockchain platform, a metadata‑management architecture to mitigate supply‑chain attacks, and a secure, provenance‑aware MLOps framework. Currently I develop *Skel*, a lightweight LLM‑agent framework, and investigate trust‑worthy architectures for autonomous workflows.
 
 ### Research interests
 - Blockchain & edge deployment  
@@ -20,15 +20,17 @@ I am a research fellow at CREST, University of Adelaide, leading work that blend
 - Distributed ML operations & provenance  
 - LLM‑based multi‑agent systems
 
-## Selected Projects
-`2024`  
-**Skel** – Lightweight and extensible framework for LLM‑based multi‑agent systems.  Skel provides a low‑abstraction, easy‑to‑understand architecture that allows researchers and educators to prototype multi‑agent workflows using LLMs as the backend, while simultaneously evolving toward production‑ready deployments.
+## Key Projects and Partnerships
 
-`2023`  
-**NVAL** – Blockchain network deployment & evaluation framework.  NVAL is an architecture‑driven, extensible automation tool that facilitates reproducible research on blockchain design decisions and enables “blockchain‑as‑a‑service” for production use cases.
+**Defence Science and Technology Group (DSTG) – Edge Blockchain Platform**  
+• Lead a multi‑year partnership to explore distributed‑ledger technology in edge environments.  
+• Designed an architectural knowledge base and a software framework that enables the deployment, operation and governance of edge blockchains for decentralized trust.  
+• Built a field‑testbed, conducted experiments on performance, scalability and resilience, and delivered seminars and technical workshops to disseminate the findings.
 
-`2023`  
-**DDRI** – Decentralised platform based on an ad‑hoc edge blockchain.  DDRI supports trustworthy, resilient information maintenance and updates at the edge, and is designed for extensibility to future applications and use cases.
+**Cyber Security CRC – Software Supply‑Chain & MLOps Initiatives**  
+• Developed an extensible architecture and framework for managing, distributing, and exploiting software‑supply‑chain metadata to mitigate supply‑chain attacks.  
+• Designed a distributed machine‑learning operations (MLOps) framework that provides security, provenance and auditability across the ML lifecycle.  
+• Supervised PhD student **Liuyue Jiang** in creating a model‑driven, AI‑aided dashboard‑generation framework to support cyber‑situational awareness in organisations.
 
 ## PhD & Master Supervision
 `2023 - Now`  
