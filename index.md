@@ -3,25 +3,29 @@ layout: cv
 title: Nguyen Khoi Tran's CV
 ---
 # Nguyen Khoi Tran
-Researcher, Reader, Writer
-<div id="webaddress">
-    <a href="mailto: nguyen.tran@adelaide.edu.au">Email</a> | 
-    <a href="https://nk-tran.com">Homepage</a> | 
-    <a href="https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en">Google Scholar</a> | 
-    <a href="https://github.com/nguyentran0212">Github</a> |
-    <a href="https://medium.com/@nktrandlt">Medium</a>
-</div>
+**Research Fellow – Decentralised Systems & AI**
+
+|  |  |
+|---|---|
+| **Email** | nguyen.tran@adelaide.edu.au |
+| **Phone** | +61 4 xxxx xxxx |
+| **Location** | Adelaide, Australia |
+| **LinkedIn** | https://linkedin.com/in/yourprofile |
+| **Website** | https://nk-tran.com |
+| **Google Scholar** | https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en |
+| **GitHub** | https://github.com/nguyentran0212 |
+| **Medium** | https://medium.com/@nktrandlt |
 
 ## Research overview
 I am a research fellow at the Centre for Research on Engineering Software Technology (CREST) at Adelaide University, where I lead several high‑impact projects that bridge engineering, security, and emerging AI technologies.
 
-- **Defence‑sector collaboration** – Spearheaded a multi‑year project with the Defence Science and Technology Group (DSTG) to explore distributed ledger (blockchain) technology in edge environments. I built an architectural knowledge base for edge blockchain deployment, designed and developed a software framework that enables distributed information processing on the edge, and participate in field tests that demonstrated performance, scalability, and resilience in real‑world scenarios. I also authored the experimental protocols, developed supporting tools, and delivered seminars and workshops to disseminate the findings to both academic and industry audiences.
+**Defence‑sector collaboration** – Spearheaded a multi‑year project with the Defence Science and Technology Group (DSTG) to explore distributed ledger (blockchain) technology in edge environments. I built an architectural knowledge base for edge blockchain deployment, designed and developed a software framework that enables distributed information processing on the edge, and participate in field tests that demonstrated performance, scalability, and resilience in real‑world scenarios. I also authored the experimental protocols, developed supporting tools, and delivered seminars and workshops to disseminate the findings to both academic and industry audiences.
 
-- **Software‑supply‑chain resilience** – Developed an extensible architecture and software platform for managing, distributing, and utilizing software‑supply‑chain metadata, thereby mitigating the growing threat of supply‑chain attacks. This work leverages my expertise in software architecture and blockchain research to provide provenance and trust in the software supply chain.
+**Software‑supply‑chain resilience** – Developed an extensible architecture and software platform for managing, distributing, and utilizing software‑supply‑chain metadata, thereby mitigating the growing threat of supply‑chain attacks. This work leverages my expertise in software architecture and blockchain research to provide provenance and trust in the software supply chain.
 
-- **Distributed ML operations** – Designed a conceptual framework for distributed machine‑learning operations (MLOps), focusing on security and provenance throughout the ML lifecycle as AI becomes ubiquitous across domains.
+**Distributed ML operations** – Designed a conceptual framework for distributed machine‑learning operations (MLOps), focusing on security and provenance throughout the ML lifecycle as AI becomes ubiquitous across domains.
 
-- **LLM‑based systems** – My current research focus is on the architecture, framework, and trust mechanisms of large‑language‑model (LLM) based systems, particularly multi‑agent and autonomous workflow environments. This line of work informs the development of new software frameworks that enable rapid prototyping, teaching, and production‑grade deployment of LLM‑powered agent systems.
+**LLM‑based systems** – My current research focus is on the architecture, framework, and trust mechanisms of large‑language‑model (LLM) based systems, particularly multi‑agent and autonomous workflow environments. This line of work informs the development of new software frameworks that enable rapid prototyping, teaching, and production‑grade deployment of LLM‑powered agent systems.
 
 ### Research interests
 - LLM‑based Systems – Multi‑Agent & Autonomous Workflows
