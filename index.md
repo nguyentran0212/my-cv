@@ -9,25 +9,16 @@ title: Nguyen Khoi Tran's CV
 **GitHub:** https://github.com/nguyentran0212  
 **LinkedIn:** https://www.linkedin.com/in/nktran/
 
+
 ## Research overview
-I am a research fellow at the Centre for Research on Engineering Software Technology (CREST) at Adelaide University, where I lead several high‑impact projects that bridge engineering, security, and emerging AI technologies.
 
-**Defence‑sector collaboration** – Spearheaded a multi‑year project with the Defence Science and Technology Group (DSTG) to explore distributed ledger (blockchain) technology in edge environments. I built an architectural knowledge base for edge blockchain deployment, designed and developed a software framework that enables distributed information processing on the edge, and participate in field tests that demonstrated performance, scalability, and resilience in real‑world scenarios. I also authored the experimental protocols, developed supporting tools, and delivered seminars and workshops to disseminate the findings to both academic and industry audiences.
-
-**Software‑supply‑chain resilience** – Developed an extensible architecture and software platform for managing, distributing, and utilizing software‑supply‑chain metadata, thereby mitigating the growing threat of supply‑chain attacks. This work leverages my expertise in software architecture and blockchain research to provide provenance and trust in the software supply chain.
-
-**Distributed ML operations** – Designed a conceptual framework for distributed machine‑learning operations (MLOps), focusing on security and provenance throughout the ML lifecycle as AI becomes ubiquitous across domains.
-
-**LLM‑based systems** – My current research focus is on the architecture, framework, and trust mechanisms of large‑language‑model (LLM) based systems, particularly multi‑agent and autonomous workflow environments. This line of work informs the development of new software frameworks that enable rapid prototyping, teaching, and production‑grade deployment of LLM‑powered agent systems.
+I am a research fellow at CREST, University of Adelaide, leading work that blends blockchain, software‑supply‑chain security, distributed ML operations, and LLM‑based systems.  Key achievements include a DSTG‑partnered edge‑blockchain platform, a metadata‑management architecture to mitigate supply‑chain attacks, and a secure, provenance‑aware MLOps framework.  Currently I develop *Skel*, a lightweight LLM‑agent framework, and investigate trust‑worthy architectures for autonomous workflows.
 
 ### Research interests
-- LLM‑based Systems – Multi‑Agent & Autonomous Workflows
-- Distributed ML Operations & Provenance
-- Software‑Supply‑Chain Architecture & Metadata Management  
-- Blockchain and Decentralised Applications (DApps)  
-- Blockchain Network Architecture  
-- Trustworthy Information & Processes  
-- Infrastructure Automation  
+- Blockchain & edge deployment  
+- Software‑supply‑chain architecture & metadata  
+- Distributed ML operations & provenance  
+- LLM‑based multi‑agent systems
 
 ## Selected Projects
 `2024`  
