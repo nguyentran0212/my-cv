@@ -6,8 +6,6 @@ title: Nguyen Khoi Tran's CV
 **Research Fellow – Decentralised Systems & AI**
 
 **Email:** nguyen.tran@adelaide.edu.au  
-**Website:** https://nk-tran.com  
-**Google Scholar:** https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en  
 **GitHub:** https://github.com/nguyentran0212  
 **LinkedIn:** https://www.linkedin.com/in/nktran/
 
