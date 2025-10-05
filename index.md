@@ -21,20 +21,7 @@ Research fellow the Centre for Research on Engineering Software Technology ([CRE
 - Trustworthy Information and Processes  
 - Infrastructure Automation
 
-## Education
-`2015 - 2018`  
-**Ph.D.**, Computer Science, The University of Adelaide, Australia  
-- *Funded by the Beacon of Enlightenment Ph.D. Scholarship from The University of Adelaide*  
-- Advisor: Prof. M. Ali Babar, Prof. Michael Sheng, Dr. Lina Yao  
-- Dissertation: A Reference Architecture and a Software Platform for Engineering Internet of Things Search Engines.
-
-`2009 – 2013`  
-**B.Sc.**, Computer Science, International University – VNU‑HCMC, Ho Chi Minh City, Vietnam  
-- *Summa cum laude, GPA: 3.95 / 4.0 (91.2 / 100)*  
-- Advisor: Dr. Hong Quang Nguyen  
-- Thesis: MobiPDA: An approach to Mobile‑application Development for Independent Developers
-
-## Projects
+## Selected Projects
 `2024`  
 **Skel** – Lightweight and extensible framework for LLM‑based multi‑agent systems.  Skel provides a low‑abstraction, easy‑to‑understand architecture that allows researchers and educators to prototype multi‑agent workflows using LLMs as the backend, while simultaneously evolving toward production‑ready deployments.
 
@@ -44,7 +31,41 @@ Research fellow the Centre for Research on Engineering Software Technology ([CRE
 `2023`  
 **DDRI** – Decentralised platform based on an ad‑hoc edge blockchain.  DDRI supports trustworthy, resilient information maintenance and updates at the edge, and is designed for extensibility to future applications and use cases.
 
-## Publications
+## PhD & Master Supervision
+
+`2023 - Now`  
+**PhD Supervision** – *Zihao Lin*: Agentic approach and framework for engineering federated digital twin systems.
+
+`2021 - Now`  
+**PhD Supervision** – *Liuyue Jiang*: Facilitating and improving cyber situational awareness in an organisation using model‑driven and AI‑aided dashboard generation.
+
+`Mar 2018 - Now`  
+**Master Project Supervision**, School of Computer Science, The University of Adelaide  
+- Master of Computer Science  
+- Master of Data Science  
+- Master of Software Engineering  
+
+`Dec 2020 - Mar 2021`  
+**Summer Research Project Supervision**, CREST, The University of Adelaide  
+
+## Teaching
+`Mar 2020 - Now`  
+**Course Coordinator**, School of Computer Science, The University of Adelaide  
+- Master of Software Engineering Project
+
+`Aug 2018 - Nov 2019`  
+**Teaching Assistant**, School of Computer Science, The University of Adelaide  
+- Master of Software Engineering Project  
+- Software Engineering Workshop
+
+`Dec 2013 - Dec 2014`  
+**Teaching Assistant**, School of Computer Science and Engineering, International University  
+- Principle of Database Management  
+- Discrete Mathematics  
+- C/C++ Programming in Unix  
+- Object‑oriented Analysis and Design
+
+## Selected Publications
 A full list is available [online](https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en)
 
 `2024`  
@@ -127,52 +148,24 @@ ACM Computing Surveys (CSUR) 50, no. 4 (2017): 55.
 *MobiPSE: A scenario‑based mobile‑application development for end‑user developers.*  
 International Journal of Pervasive Computing and Communications 10.2 (2014): 153‑167.
 
-## Work Experience
-### Research
-`Dec 2019 - Now`  
-**Grant‑funded Researcher**, CREST, The University of Adelaide, Australia
-
-### Teaching
-`Mar 2020 - Now`  
-**Course Coordinator**, School of Computer Science, The University of Adelaide  
-- Master of Software Engineering Project
-
-`Aug 2018 - Nov 2019`  
-**Teaching Assistant**, School of Computer Science, The University of Adelaide  
-- Master of Software Engineering Project  
-- Software Engineering Workshop
-
-`Dec 2013 - Dec 2014`  
-**Teaching Assistant**, School of Computer Science and Engineering, International University  
-- Principle of Database Management  
-- Discrete Mathematics  
-- C/C++ Programming in Unix  
-- Object‑oriented Analysis and Design
-
-### Supervision
-`July 2020 - Now`  
-**PhD Supervision**, School of Computer Science, The University of Adelaide  
-
-`Mar 2018 - Now`  
-**Master Project Supervision**, School of Computer Science, The University of Adelaide  
-- Master of Computer Science  
-- Master of Data Science  
-- Master of Software Engineering  
-
-`Dec 2020 - Mar 2021`  
-**Summer Research Project Supervision**, CREST, The University of Adelaide  
-
-`2021 - Now`  
-**PhD Supervision** – *Liuyue Jiang*: Facilitating and improving cyber situational awareness in an organisation using model‑driven and AI‑aided dashboard generation.
-
-`2023 - Now`  
-**PhD Supervision** – *Zihao Lin*: Agentic approach and framework for engineering federated digital twin systems.
-
-### Professional Experience
+## Professional Experience
 - **Reviewer:** TEM, COMP, SASEIOT2016, AICCSA2016, BDCloud2016, ICWE2016  
 - **Conference co‑organiser and volunteer coordinator:** ICCSA 2013  
 - **Committee Member:**  
   - IEEE Technology and Engineering Management Society’s Technical Committee on Blockchain and Distributed Ledger Technologies
+
+## Education
+`2015 - 2018`  
+**Ph.D.**, Computer Science, The University of Adelaide, Australia  
+- *Funded by the Beacon of Enlightenment Ph.D. Scholarship from The University of Adelaide*  
+- Advisor: Prof. M. Ali Babar, Prof. Michael Sheng, Dr. Lina Yao  
+- Dissertation: A Reference Architecture and a Software Platform for Engineering Internet of Things Search Engines.
+
+`2009 – 2013`  
+**B.Sc.**, Computer Science, International University – VNU‑HCMC, Ho Chi Minh City, Vietnam  
+- *Summa cum laude, GPA: 3.95 / 4.0 (91.2 / 100)*  
+- Advisor: Dr. Hong Quang Nguyen  
+- Thesis: MobiPDA: An approach to Mobile‑application Development for Independent Developers
 
 ## Awards and Scholarship
 `2015`  
