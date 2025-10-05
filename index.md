@@ -58,22 +58,21 @@ I am a research fellow at the Centre for Research on Engineering Software Techno
 `Dec 2020 - Mar 2021`  
 **Summer Research Project Supervision**, CREST, The University of Adelaide  
 
+
 ## Teaching
-`Mar 2020 - Now`  
-**Course Coordinator**, School of Computer Science, The University of Adelaide  
-- Master of Software Engineering Project
 
-`Aug 2018 - Nov 2019`  
-**Teaching Assistant**, School of Computer Science, The University of Adelaide  
-- Master of Software Engineering Project  
-- Software Engineering Workshop
-
-`Dec 2013 - Dec 2014`  
-**Teaching Assistant**, School of Computer Science and Engineering, International University  
-- Principle of Database Management  
-- Discrete Mathematics  
-- C/C++ Programming in Unix  
-- Object‑oriented Analysis and Design
+- **2024 Semester 1** – *Topics in Computer Science* – *project supervisor*  
+- **2023 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*  
+- **2022 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*  
+- **2022 Semester 2** – *Advanced Topics in Computer Science* – *project supervisor*  
+- **2022 Semester 2** – *Topics in Computer Science* – *project supervisor*  
+- **2021 Semester 2** – *Master Data Science Research Project Part A* (7097A_7097B Combined) – *project supervisor*  
+- **2020 Semester 2** – *Computer Science Honours Research Project Part A* (4015A_4015B Combined) – *project supervisor*  
+- **2020 Semester 2** – *Master Computer Science Research Project Part A* (7099A_7099B Combined) – *project supervisor*  
+- **2020 Semester 2** – *Master Data Science Research Project Part A* – *project supervisor*  
+- **2020 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*  
+- **2020 Semester 1** – *Master of Software Engineering Project Part A* – *course coordinator*  
+- **2019 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*
 
 ## Selected Publications
 A full list is available [online](https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en)
