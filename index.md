@@ -12,14 +12,25 @@ Researcher, Reader, Writer
     <a href="https://medium.com/@nktrandlt">Medium</a>
 </div>
 
-## Currently
-Research fellow the Centre for Research on Engineering Software Technology ([CREST](https://www.crest-centre.net)) at the University of Adelaide, conducting research in the [TIPS](http://dlt.crest-centre.net). My core research question is how to empower organisations and individuals to build and use *decentralised software solutions that are efficient, resilient, secure, privacy-preserving, and user-controllable.* My research adopts an engineering-centric approach, focusing on the systemisation of architectural design knowledge and the development of tools and frameworks to enable decentralised software.
+## Research overview
+I am a research fellow at the Centre for Research on Engineering Software Technology (CREST) at Adelaide University, where I lead several high‑impact projects that bridge engineering, security, and emerging AI technologies.
+
+- **Defence‑sector collaboration** – Spearheaded a multi‑year project with the Defence Science and Technology Group (DSTG) to explore distributed ledger (blockchain) technology in edge environments. I built an architectural knowledge base for edge blockchain deployment, designed and developed a software framework that enables distributed information processing on the edge, and participate in field tests that demonstrated performance, scalability, and resilience in real‑world scenarios. I also authored the experimental protocols, developed supporting tools, and delivered seminars and workshops to disseminate the findings to both academic and industry audiences.
+
+- **Software‑supply‑chain resilience** – Developed an extensible architecture and software platform for managing, distributing, and utilizing software‑supply‑chain metadata, thereby mitigating the growing threat of supply‑chain attacks. This work leverages my expertise in software architecture and blockchain research to provide provenance and trust in the software supply chain.
+
+- **Distributed ML operations** – Designed a conceptual framework for distributed machine‑learning operations (MLOps), focusing on security and provenance throughout the ML lifecycle as AI becomes ubiquitous across domains.
+
+- **LLM‑based systems** – My current research focus is on the architecture, framework, and trust mechanisms of large‑language‑model (LLM) based systems, particularly multi‑agent and autonomous workflow environments. This line of work informs the development of new software frameworks that enable rapid prototyping, teaching, and production‑grade deployment of LLM‑powered agent systems.
 
 ### Research interests
+- LLM‑based Systems – Multi‑Agent & Autonomous Workflows
+- Distributed ML Operations & Provenance
+- Software‑Supply‑Chain Architecture & Metadata Management  
 - Blockchain and Decentralised Applications (DApps)  
 - Blockchain Network Architecture  
-- Trustworthy Information and Processes  
-- Infrastructure Automation
+- Trustworthy Information & Processes  
+- Infrastructure Automation  
 
 ## Selected Projects
 `2024`  
