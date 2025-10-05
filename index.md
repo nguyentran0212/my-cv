@@ -5,16 +5,11 @@ title: Nguyen Khoi Tran's CV
 # Nguyen Khoi Tran
 **Research Fellow – Decentralised Systems & AI**
 
-|  |  |
-|---|---|
-| **Email** | nguyen.tran@adelaide.edu.au |
-| **Phone** | +61 4 xxxx xxxx |
-| **Location** | Adelaide, Australia |
-| **LinkedIn** | https://linkedin.com/in/yourprofile |
-| **Website** | https://nk-tran.com |
-| **Google Scholar** | https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en |
-| **GitHub** | https://github.com/nguyentran0212 |
-| **Medium** | https://medium.com/@nktrandlt |
+**Email:** nguyen.tran@adelaide.edu.au  
+**Website:** https://nk-tran.com  
+**Google Scholar:** https://scholar.google.com/citations?user=aX4UR10AAAAJ&hl=en  
+**GitHub:** https://github.com/nguyentran0212  
+**LinkedIn:** https://www.linkedin.com/in/nktran/
 
 ## Research overview
 I am a research fellow at the Centre for Research on Engineering Software Technology (CREST) at Adelaide University, where I lead several high‑impact projects that bridge engineering, security, and emerging AI technologies.
