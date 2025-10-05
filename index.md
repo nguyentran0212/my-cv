@@ -42,7 +42,6 @@ I am a research fellow at the Centre for Research on Engineering Software Techno
 **DDRI** – Decentralised platform based on an ad‑hoc edge blockchain.  DDRI supports trustworthy, resilient information maintenance and updates at the edge, and is designed for extensibility to future applications and use cases.
 
 ## PhD & Master Supervision
-
 `2023 - Now`  
 **PhD Supervision** – *Zihao Lin*: Agentic approach and framework for engineering federated digital twin systems.
 
@@ -60,7 +59,6 @@ I am a research fellow at the Centre for Research on Engineering Software Techno
 
 
 ## Teaching
-
 - **2024 Semester 1** – *Topics in Computer Science* – *project supervisor*  
 - **2023 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*  
 - **2022 Semester 2** – *Master of Software Engineering Project Part B* – *course coordinator*  
