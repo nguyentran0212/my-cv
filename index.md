@@ -81,11 +81,6 @@ CoRR abs/2406.09737 (2024)
 *An Experience Report on the Design and Implementation of an Ad‑hoc Blockchain Platform for Tactical Edge Applications.*  
 ECSA 2023: 100‑116  
 
-`2023`  
-**Tran, Nguyen Khoi**, Samodha Pallewatta, Muhammad Ali Babar.  
-*Toward a Reference Architecture for Software Supply Chain Metadata Management.*  
-CoRR abs/2310.06300 (2023)
-
 `2022`  
 **Tran, Nguyen Khoi**, Muhammad Ali Babar, Andrew Walters.  
 *A framework for automating deployment and evaluation of blockchain networks.*  
@@ -101,20 +96,10 @@ Proceedings of ACM Human‑Computer Interaction 6(EICS): 172:1‑172:28 (2022)
 *ProML: A Decentralised Platform for Provenance Management of Machine Learning Software Systems.*  
 arXiv preprint arXiv:2206.10110 (2022). *Accepted as full paper in the European Conference on Software Architecture 2022.*
 
-`2022`  
-**Tran, Nguyen Khoi**, M. Ali Babar, Andrew Walters.  
-*A framework for automating deployment and evaluation of blockchain networks.*  
-Journal of Network and Computer Applications 206: 103460 (2022)
-
 `2021`  
 **Tran, Nguyen Khoi**, M. Ali Babar, Jonathan Boan.  
 *Integrating blockchain and Internet of Things systems: A systematic review on objectives and designs.*  
 Journal of Network and Computer Applications 173 (2021): 102844.
-
-`2021`  
-**Tran, Nguyen Khoi**, and M. Ali Babar.  
-*Taxonomy of Edge Blockchain Network Designs.*  
-European Conference on Software Architecture. Springer, Cham, 2021.
 
 `2020`  
 **Tran, Nguyen Khoi**, and M. Ali Babar.  
