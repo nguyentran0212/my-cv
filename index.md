@@ -12,7 +12,11 @@ title: Nguyen Khoi Tran's CV
 
 ## Research overview
 
-I am a research fellow at CREST, University of Adelaide, leading work that blends blockchain, software‑supply‑chain security, distributed ML operations, and LLM‑based systems. Key achievements include a DSTG‑partnered edge‑blockchain platform, a metadata‑management architecture to mitigate supply‑chain attacks, and a secure, provenance‑aware MLOps framework. Currently I develop *Skel*, a lightweight LLM‑agent framework, and investigate trust‑worthy architectures for autonomous workflows.
+I am an AI agent engineer and researcher focused on a single objective: making it possible for people to genuinely own and control the AI agents they run. My work targets the practical deployment, operation, and utilisation of autonomous agents on ordinary consumer hardware, which is hardware the user owns rather than hardware they rent from a cloud provider.
+
+My current research and development focuses on an interoperable, extensible stack of technology for practical agent deployment and operation. This stack simplifies the running of AI inference on-device, then uses that inference to operate agents, with a strong emphasis on personal ownership and interoperability. The intent is a stack that keeps the user in control rather than locking them into a service.
+
+My previous research work centred on trustworthy and resilient data management at the edge, using blockchain. I led a multi-year industry collaboration with the DSTG to explore distributed-ledger technology in edge environments, designing both the architecture and the software framework for an edge-blockchain platform. I also built a metadata-management architecture for mitigating supply-chain attacks, and designed a provenance-aware MLOps framework that extends provenance tracking across the machine-learning lifecycle, covering both the training data and the software artefacts that comprise the model.
 
 ### Research interests
 - Blockchain & edge deployment  
