@@ -3,7 +3,7 @@ layout: cv
 title: Nguyen Khoi Tran's CV
 ---
 # Nguyen Khoi Tran
-**Research Fellow – Decentralised Systems & AI**
+**AI Agent Engineer & Researcher**
 
 **Email:** nguyen.tran@adelaide.edu.au  
 **GitHub:** https://github.com/nguyentran0212  
