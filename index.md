@@ -18,10 +18,10 @@ My current research and development focuses on an interoperable, extensible stac
 My previous research work centred on trustworthy and resilient data management at the edge, using blockchain. I led a multi-year industry collaboration with the DSTG to explore distributed-ledger technology in edge environments, designing both the architecture and the software framework for an edge-blockchain platform. I also built a metadata-management architecture for mitigating supply-chain attacks, and designed a provenance-aware MLOps framework that extends provenance tracking across the machine-learning lifecycle, covering both the training data and the software artefacts that comprise the model.
 
 ### Research interests
-- Blockchain & edge deployment  
-- Software‑supply‑chain architecture & metadata  
-- Distributed ML operations & provenance  
-- LLM‑based multi‑agent systems
+- Edge AI and on-device inference
+- Agent orchestration and interoperability
+- Agent context engineering
+- LLM-driven multi-agent systems
 
 ## Key Projects and Partnerships
 
