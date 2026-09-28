@@ -5,7 +5,6 @@ title: Nguyen Khoi Tran's CV
 # Nguyen Khoi Tran
 **AI Agent Engineer & Researcher**
 
-**Email:** nguyen.tran@adelaide.edu.au  
 **GitHub:** https://github.com/nguyentran0212  
 **LinkedIn:** https://www.linkedin.com/in/nktran/
 
